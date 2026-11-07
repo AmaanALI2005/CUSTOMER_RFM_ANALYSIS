@@ -1,6 +1,15 @@
 RFM Analysis Dashboard | Power BI
 An interactive Power BI dashboard for analyzing customer purchasing behaviour using RFM (Recency, Frequency, Monetary) analysis. The project explores customer value, revenue trends, product performance, and customer segments to support data-driven business decisions.
 
+RFM-Analysis-Dashboard-PowerBI/
+│
+├── README.md
+├── RFM_Analysis_Dashboard.pbix
+│
+└── Images/
+    ├── dashboard-overview.png
+    └── rfm-segments.png
+    
 Project Overview
 RFM analysis is a customer segmentation method based on three dimensions:
 - Recency: How recently a customer made a purchase.
